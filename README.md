@@ -1,8 +1,8 @@
-# metis-project-3
+# Detecting Fake Jobs
 My third Metis project. 
 
 # Goal
-Detect fake job postings using a classification model
+Detect fake job postings using a classification model. 
 
 # Methods
 - Oversample minority class (fraudulent job listings)
